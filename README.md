@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-🔭 I'm a first-year PhD student at the University of Pennsylvania working with Dr. Michael Mann. My current project focuses on modeling the Greenland ice sheet (GrIS) during MIS 11 and the Eemian using the EMIC, CLIMBER-X, where I am working to constrain the possible sea level contribution from GrIS melt.
+🔭 I'm a third-year PhD Candidate at the University of Pennsylvania working with Dr. Michael Mann. My research focuses on modeling the Greenland ice sheet (GrIS) during MIS 11 and the Eemian using the EMIC, CLIMBER-X, where I am working to constrain the possible sea level contribution from GrIS melt. I'm supplementing my modeling work with analysis of the meteoric beryllium-10 in Camp Century subglacial sediment with Paul Bierman at the University of Vermont.
 
 👯 I'm looking to collaborate on ice sheet modeling, as well as labwork such as cosmogenic nuclides and ice core analysis.
 
 📫 Email: larsonc@sas.upenn.edu
 
 😄 Pronouns: he/him
-
-⚡ Fun fact: I am going into the field for the first time this summer (June/July 2023) to Kangerlussuaq, Greenland, to assist Jon Hawking's lab with sampling mercury isotopes in ice streams and meltwater!
 
 
 
